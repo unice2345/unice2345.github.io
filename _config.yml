@@ -13,16 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
+title: SEI CERT C++ Coding Stardard中文翻译
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  本内容是SEI CERT C++ Coding Stardard的中文翻译。并非官方版本，只是个人翻译。
+  内容并不完整，并有可能有不准确的地方。
+  SEI CERT C++ Coding Stardard是一项C++语言的安全编码规范。其中列举了一些C++编程中
+  应遵守的安全编程规范，并阐述原因和列举了代码示例，对C++编程人员是很好的学习指导。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  unice2345
 
 # Build settings
 markdown: kramdown
