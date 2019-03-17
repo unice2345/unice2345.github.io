@@ -1,0 +1,36 @@
+---
+layout: post
+title: "规则"
+date:   2019-01-30 07:00:54 +0800
+categories: jekyll update
+---
+
+# 规则
+
+Rule 01. Declarations and Initialization (DCL)
+
+Rule 02. Expressions (EXP)
+
+Rule 03. Integers (INT)
+
+Rule 04. Containers (CTR)
+
+Rule 05. Characters and Strings (STR)
+
+Rule 06. Memory Management (MEM)
+
+Rule 07. Input Output (FIO)
+
+Rule 08. Exceptions and Error Handling (ERR)
+
+Rule 09. Object Oriented Programming (OOP)
+
+Rule 10. Concurrency (CON)
+
+Rule 49. Miscellaneous (MSC)
+
+参考链接
+
+[Rules][1]
+
+[1]: https://wiki.sei.cmu.edu/confluence/display/cplusplus/2+Rules
