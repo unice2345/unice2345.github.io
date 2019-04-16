@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: SEI CERT C++ Coding Stardard中文翻译
-email: your-email@example.com
+email: unice2345@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   本内容是SEI CERT C++ Coding Stardard的中文翻译。并非官方版本，只是个人翻译。
   内容并不完整，并有可能有不准确的地方。

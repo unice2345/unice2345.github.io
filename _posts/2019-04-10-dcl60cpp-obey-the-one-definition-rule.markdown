@@ -243,6 +243,7 @@ inline int f(int k) {
 |[ISO/IEC 14882-2014](https://wiki.sei.cmu.edu/confluence/display/cplusplus/AA.+Bibliography#AA.[INCITS 2014]Bibliography-ISO/IEC14882-2014)| Subclause 3.2, "One Definition Rule"|
 |[[Quinlan 2006](https://wiki.sei.cmu.edu/confluence/display/cplusplus/AA.+Bibliography#AA.Bibliography-Quinlan06)]||
 
+
 # 参考链接
 
 [DCL60-CPP. Obey the one-definition rule][1]
@@ -261,3 +262,6 @@ inline int f(int k) {
 [3]: http://cs.stmarys.ca/~porter/csc/common_341_342/notes/storage_linkage.html
 
 [4]: https://en.cppreference.com/w/cpp/language/storage_duration
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
+
